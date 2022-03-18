@@ -7,6 +7,8 @@
   "description": "A beat saber mod that will allow you to create interactive stream overlays that will reflect game data like Accuracy, Score, Ect...",
   "gameVersion": "1.19.0",
   "dependsOn": {
-    "BSIPA": "^4.2.0"
+    "BSIPA": "^4.2.0",
+    "BS_Utils": "1.11.2",
+    "DataPuller": "2.0.11"
   }
 }
