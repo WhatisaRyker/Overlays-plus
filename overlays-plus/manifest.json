@@ -1,0 +1,12 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/bsmg/BSIPA-MetadataFileSchema/master/Schema.json",
+  "id": "overlays_plus",
+  "name": "overlays-plus",
+  "author": "WhatisaRyker",
+  "version": "0.0.1",
+  "description": "A beat saber mod that will allow you to create interactive stream overlays that will reflect game data like Accuracy, Score, Ect...",
+  "gameVersion": "1.19.0",
+  "dependsOn": {
+    "BSIPA": "^4.2.0"
+  }
+}

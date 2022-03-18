@@ -1,0 +1,2 @@
+C:\Users\Ryker\Documents\GitHub\overlays-plus\overlays-plus\obj\Debug\overlays-plus.csproj.AssemblyReference.cache
+C:\Users\Ryker\Documents\GitHub\overlays-plus\overlays-plus\obj\Debug\overlays-plus.csproj.CoreCompileInputs.cache
